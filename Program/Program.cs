@@ -1,42 +1,66 @@
-﻿namespace Program
+﻿using System.Collections.Generic;
+using System.Runtime.InteropServices;
+
+namespace Program
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            #region Boxing
-            // 값 형식의 데이터를 참조 형식으로 변환하는 과정
-            // ex)
-            //int value = 100;
+            #region 컬렉션 (Collection)
+
+            #region List
+            //List<int> list = new List<int>();
             //
-            //object generic = value;
+            //list.Capacity = 10;
             //
-            //Console.WriteLine("value : " + value);
-            //Console.WriteLine("generic : " + generic);
+            //list.Add(10);
+            //list.Add(20);
+            //list.Add(30);
+            //list.Add(40);
+            //list.Add(50);
+            //
+            //list.Remove(40);
+            //list.Insert(3, 75);
+            //
+            //foreach (int elem in list)      // : 이게 없넹 
+            //{
+            //    Console.WriteLine(elem);
+            //}
             #endregion
 
-            #region Unboxing
-            // 참조 형식의 데이터를 값 형식으로 변화하는 과정
-            // ex)
+            #region Dictionary
+            // Hash Table 구조
+            Dictionary<string , int> dictionary = new Dictionary<string , int>();
 
-            //int box = (int)generic;     // 명시적 형변환을 해줘야함 (ex. (int))
-            //
-            //Console.WriteLine("box : " +  box);
+            int money = 0;
 
-            // 요약: 박싱 언박싱이 안일어나게 하는 게 제일 조음 
+            dictionary.Add("Bomb", 500);
+            dictionary.Add("TNT", 1000);
+
+            foreach (var elem in dictionary)
+            {
+                Console.WriteLine($"Key : {elem.Key}");
+                Console.WriteLine($"Value : {elem.Value}");
+            }
+
+            string key = "TNT2.0";
+
+            if(dictionary.TryGetValue(key, out money))    // bool 타입이넹
+            {
+                // 잇으면 가져오고 없으면 ㅖ?
+                money = dictionary[key];
+            }
+            else
+            {
+                dictionary.Add(key, 1500);
+            }
+            Console.WriteLine($"money : {money}");
+         
             #endregion
 
-            Utility utility = new Utility();
+            #endregion
 
-            utility.Pause();
-
-            int x = 10;
-            int y = 20;
-            utility.Swap(ref x, ref y);
-
-            int a = -7;
-           
-            Console.WriteLine("절대값 : " + utility.Absolute(in a));
         }
     }
 }

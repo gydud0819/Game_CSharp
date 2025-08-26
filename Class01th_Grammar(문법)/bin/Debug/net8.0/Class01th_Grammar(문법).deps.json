@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Class01th_Grammar(문법)/1.0.0": {
+        "runtime": {
+          "Class01th_Grammar(문법).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class01th_Grammar(문법)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

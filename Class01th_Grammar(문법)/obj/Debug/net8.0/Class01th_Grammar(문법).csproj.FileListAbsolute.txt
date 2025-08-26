@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).sourcelink.json
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\bin\Debug\net8.0\Class01th_Grammar(문법).exe
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\bin\Debug\net8.0\Class01th_Grammar(문법).deps.json
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\bin\Debug\net8.0\Class01th_Grammar(문법).runtimeconfig.json
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\bin\Debug\net8.0\Class01th_Grammar(문법).dll
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\bin\Debug\net8.0\Class01th_Grammar(문법).pdb
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).dll
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\refint\Class01th_Grammar(문법).dll
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).pdb
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\Class01th_Grammar(문법).genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Game_CSharp\Class01th_Grammar(문법)\obj\Debug\net8.0\ref\Class01th_Grammar(문법).dll

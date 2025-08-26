@@ -12,3 +12,4 @@ C:\Users\Administrator\Desktop\Game_CSharp\Program\obj\Debug\net8.0\refint\Progr
 C:\Users\Administrator\Desktop\Game_CSharp\Program\obj\Debug\net8.0\Program.pdb
 C:\Users\Administrator\Desktop\Game_CSharp\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Game_CSharp\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\Administrator\Desktop\Game_CSharp\Program\obj\Debug\net8.0\Program.sourcelink.json
