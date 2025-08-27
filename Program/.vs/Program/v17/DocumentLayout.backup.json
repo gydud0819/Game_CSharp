@@ -5,6 +5,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\desert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:desert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\snowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:snowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\icoverable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:icoverable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\itraversable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:itraversable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +38,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITraversable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\ITraversable.cs",
+              "RelativeDocumentMoniker": "ITraversable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\ITraversable.cs",
+              "RelativeToolTip": "ITraversable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:33:34.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICoverable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\ICoverable.cs",
+              "RelativeDocumentMoniker": "ICoverable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\ICoverable.cs",
+              "RelativeToolTip": "ICoverable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T06:04:39.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Snowy.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Snowy.cs",
+              "RelativeDocumentMoniker": "Snowy.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Snowy.cs",
+              "RelativeToolTip": "Snowy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:35:27.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Desert.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Desert.cs",
+              "RelativeDocumentMoniker": "Desert.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Desert.cs",
+              "RelativeToolTip": "Desert.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:34:50.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Forest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Forest.cs",
+              "RelativeDocumentMoniker": "Forest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Forest.cs",
+              "RelativeToolTip": "Forest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:33:11.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Terrain.cs",
+              "RelativeDocumentMoniker": "Terrain.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Terrain.cs",
+              "RelativeToolTip": "Terrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:28:40.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +130,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwD8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:14:25.806Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class01th_Grammar(문법)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df353f4994595acfd6539e701d52d04e8ddd0d85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a7b326e639b73e244158a6887acae5534a71928")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class01th_Grammar(문법)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class01th_Grammar(문법)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
