@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Class02th_Collection(콜렉션)")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Class03th_Interface(인터페이스)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8ce2ce680c7ec193786e65335febe4128c0d9c5")]
-[assembly: System.Reflection.AssemblyProductAttribute("Class02th_Collection(콜렉션)")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Class02th_Collection(콜렉션)")]
+[assembly: System.Reflection.AssemblyProductAttribute("Class03th_Interface(인터페이스)")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Class03th_Interface(인터페이스)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

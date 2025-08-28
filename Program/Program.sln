@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class01th_Grammar(문법)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class02th_Collection(콜렉션)", "..\Class02th_Collection(콜렉션)\Class02th_Collection(콜렉션).csproj", "{F38E79C2-94F8-4570-B6E1-07C85A1E04CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class03th_Interface(인터페이스)", "..\Class03th_Interface(인터페이스)\Class03th_Interface(인터페이스).csproj", "{43B3826E-D46B-4C7A-81FF-115D9FD7F1C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F38E79C2-94F8-4570-B6E1-07C85A1E04CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F38E79C2-94F8-4570-B6E1-07C85A1E04CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F38E79C2-94F8-4570-B6E1-07C85A1E04CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B3826E-D46B-4C7A-81FF-115D9FD7F1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B3826E-D46B-4C7A-81FF-115D9FD7F1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B3826E-D46B-4C7A-81FF-115D9FD7F1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B3826E-D46B-4C7A-81FF-115D9FD7F1C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
