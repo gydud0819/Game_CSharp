@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:enchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:trader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:princess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\movable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:movable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|c:\\users\\administrator\\desktop\\game_csharp\\program\\tradable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9B7C82-B577-438E-BC0F-E183A2E22729}|Program.csproj|solutionrelative:tradable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,78 +50,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enchant.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Enchant.cs",
-              "RelativeDocumentMoniker": "Enchant.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Enchant.cs",
-              "RelativeToolTip": "Enchant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T06:06:27.259Z",
+              "WhenOpened": "2025-08-29T06:17:08.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Damageable.cs",
+              "RelativeDocumentMoniker": "Damageable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Damageable.cs",
+              "RelativeToolTip": "Damageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:15:52.624Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Princess.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Princess.cs",
+              "RelativeDocumentMoniker": "Princess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Princess.cs",
+              "RelativeToolTip": "Princess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:11:16.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trader.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Trader.cs",
+              "RelativeDocumentMoniker": "Trader.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Trader.cs",
+              "RelativeToolTip": "Trader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:09:32.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Movable.cs",
+              "RelativeDocumentMoniker": "Movable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Movable.cs",
+              "RelativeToolTip": "Movable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:05:11.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tradable.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Tradable.cs",
+              "RelativeDocumentMoniker": "Tradable.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Tradable.cs",
+              "RelativeToolTip": "Tradable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:03:47.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Item.cs",
               "RelativeDocumentMoniker": "Item.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Item.cs",
               "RelativeToolTip": "Item.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T06:01:41.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reward.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Reward.cs",
-              "RelativeDocumentMoniker": "Reward.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Reward.cs",
-              "RelativeToolTip": "Reward.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T05:18:15.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Service.cs",
-              "RelativeDocumentMoniker": "Service.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Service.cs",
-              "RelativeToolTip": "Service.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:32:58.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Quest.cs",
-              "RelativeDocumentMoniker": "Quest.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Quest.cs",
-              "RelativeToolTip": "Quest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:29:40.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game_CSharp\\Program\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T04:14:25.806Z",
               "EditorCaption": ""

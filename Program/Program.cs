@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.Runtime.InteropServices;
 
 namespace Program
@@ -38,13 +39,31 @@ namespace Program
             // 소프트웨어의 구성 요소는 확장에는 열려 있어야 하고, 변경에는 닫혀 있어야 한다.
             // 버트란드 마이어(Bertrand Meyer) 
 
-            Enchant enchant = new Enchant();
-            enchant.Enforse(new Item("임프의 신발", 0, 3, 0));
-            enchant.Enforse(new Item("낡아빠진 엘림스의 가면", 1, 0, 2));
-            enchant.Enforse(new Item("라라의 목걸이", 2, 0, 0));
-           
+            //Enchant enchant = new Enchant();
+            //enchant.Enhanse(new Shoes("순수의 맨발?", 0, 2, 1));
+            //enchant.Enhanse(new Sword("엑스걸리버", 3, 1, 2));
+
+
             #endregion
 
+            #region 인터페이스 분리 원칙 (Interface Sergregation Principle)
+            // 클래스가 자신이 사용하지 않는 함수에 의존하지 않도록 설게되어야하는 원칙
+
+            Trader trader = new Trader();
+            trader.Trade();
+
+            Princess princess = new Princess();
+            princess.Damage(5.0f);
+
+            Warrior warrior = new Warrior();
+            warrior.Move();
+            
+
+            //NPC trader = new Trader("상인", "물건팔기");
+            //NPC princess = new Princess("공주", "공격받기");
+            //NPC warrior = new Warrior("용병", "공주랑 도망가기");
+            
+            #endregion
             #endregion
 
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Program
 {
-    internal class Item
+    internal class Item     // ㅓ..그럼 이거 상속시켜야하니까 abs?
     {
         private string name;
         private int power;  // 힘 
@@ -26,7 +26,6 @@ namespace Program
             dex = _dex;
             intel = _intel;
         }
-
 
     }
 }
